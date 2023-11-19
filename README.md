@@ -1,4 +1,4 @@
-# Temp-Hum-Pressure-DP-Server
+# Temp-Humidity-Pressure-Dewpoint-Server
 This is a program for reporting temperature, humidity, pressure, and dewpoint
 sensor measurements.  It is designed to run on an Adafruit ESP32 Feather V2
 connected to a Sparkfun BME280 Atmospheric Sensor Breakout Board (SEN-15440)
