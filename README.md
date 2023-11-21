@@ -2,7 +2,10 @@
 This is a program for reporting temperature, humidity, pressure, and dewpoint
 sensor measurements.  It is designed to run on an Adafruit ESP32 Feather V2
 connected to a Sparkfun BME280 Atmospheric Sensor Breakout Board (SEN-15440)
-via a Qwiic interface cable.  It is intended to be built using the Arduino IDE.
+via a Qwiic interface cable.
+
+It is intended to be built using the Arduino IDE.  Take a look at the #include
+statements to figure out which Arduino libraries you need to install.
 
 With the associated web page, it can plot temperature, relative humidity, 
 barometric pressure, and dewpoint for the past five days using Highcharts.  It
